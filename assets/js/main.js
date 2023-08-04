@@ -40,7 +40,7 @@ function animateNumber(element, targetNumber, duration) {
 
 function startNumberAnimationOnScroll() {
     const titles = document.querySelectorAll('.about_info-title');
-    const targetNumbers = [3, 15, 28];
+    const targetNumbers = [3, 19, 39];
     const animationDuration = 2000;
 
     let animationStarted = false;
