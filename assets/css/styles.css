@@ -659,13 +659,11 @@ img {
 }
 
 .skills_js,
-.skills_php,
 .skills_Postman {
   width: 60%;
 }
 
 .skills_ts,
-.skills_laravel,
 .skills_trello {
   width: 50%;
 }
@@ -676,7 +674,8 @@ img {
 }
 
 .skills_react,
-.skills_GitHub {
+.skills_GitHub,
+.skills_Figma {
   width: 75%;
 }
 
